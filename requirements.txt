@@ -1,7 +1,22 @@
+# Streamlit
 streamlit
+
+# Data handling
 pandas
-matplotlib
-scikit-learn
-reportlab
 numpy
-pyyaml
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+
+# PDF generation
+reportlab
+
+# Environment variables
+python-dotenv
+
+# APIs
+openai
+ollama
